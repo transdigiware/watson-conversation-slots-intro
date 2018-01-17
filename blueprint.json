@@ -11,10 +11,8 @@
   ],
   "generators": {
     "node": [
-      "generator-starterkit-content-downloader",
       "generator-ibm-cloud-enablement",
-      "generator-ibm-service-enablement",
-      "generator-git-starterkit-credentials-builder"
+      "generator-ibm-service-enablement"
     ]
   },
   "generatorOptions": {
